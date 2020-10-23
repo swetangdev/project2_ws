@@ -1,0 +1,3 @@
+[submodule "rosbot_description"]
+	path = rosbot_description
+	url = https://github.com/Zhijun2/rosbot_description.git
